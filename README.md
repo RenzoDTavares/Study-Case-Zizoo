@@ -65,7 +65,8 @@ Below is the visual evidence supporting the most critical findings listed in the
 
 ### 🛠️ Deliverables and Tools
 
-* **Test Plan (Detailed Charters):** 
-* **Bug Intake Form (Detailed Reproduction Steps):** 
+* **Test Plan (Detailed Charters):** ScenariosBDD.docx
+* **Bug Intake Form (Detailed Reproduction Steps):** Bugs.docx
+* **Evidences:** https://drive.google.com/drive/folders/1GcLesEUAiQFLGUXTmqIjrqawb7jiEjf2?usp=sharing
 * **Tools Used:** Google Chrome with DevTools
 * **Actual Solution Time Spent:** 2h
