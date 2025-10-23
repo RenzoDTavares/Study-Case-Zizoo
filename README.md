@@ -28,7 +28,7 @@ The following 5 high-value defects were identified and prioritized based on thei
 | **2** | **CRITICAL E2E FAILURE: URL Length Contamination blocks Email Subscription/Community Access (HTTP 413 Side Effect).** | **CRITICAL** | HIGH | Stability/Engagement Funnel |
 | **3** | **Search: HTTP 413 Error when applying excessive filters (URL too long).** | **CRITICAL** | HIGH | Functionality/Backend |
 | **4** | **Functional/UX Barrier: Location Search Field cannot be manually cleared/reset after initial input.** | MAJOR | HIGH | Usability (UX) 
-| **5** | **Localization/UX: Inconsistency in legal disclosure terminology ('Impressum' link leads to 'Imprint' page title).** | MINOR | MEDIUM | Localization (L10n) |
+| **5** | **Localization/UX: Inconsistency in legal disclosure terminology ('Impressum' link leads to 'Imprint' page title).** | MINOR | MEDIUM | Localization |
 
 ---
 
